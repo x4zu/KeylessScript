@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T07:12:49.940Z",
+  "updatedAt": "2026-11-23T07:44:18.542Z",
   "games": [
+    {
+      "id": "prison-tycoon",
+      "name": "(🚨) Prison Tycoon",
+      "placeId": 139752339597157,
+      "universeId": 10774554401,
+      "creatorId": 299349841,
+      "version": "1.0.0",
+      "updated": "2026-11-23T07:44:18.542Z",
+      "enabled": true,
+      "scriptSha": "ab68d9785913b1f9c2fb23bb24be2a7afbaa856c",
+      "scriptSize": 224737,
+      "imageSha": "85cec0bc7d7f59e76cb61563b0e59975cfae1a4f"
+    },
     {
       "id": "voxel-wars",
       "name": "Voxel Wars",
