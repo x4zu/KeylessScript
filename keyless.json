@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T05:07:47.678Z",
+  "updatedAt": "2026-11-23T05:36:54.821Z",
   "games": [
     {
       "id": "clans-hypershot",
@@ -10,7 +10,7 @@
       "creatorId": 3385385,
       "version": "1.0.0",
       "updated": "2026-11-23T05:07:47.674Z",
-      "enabled": true,
+      "enabled": false,
       "scriptSha": "9aef8f35c81e6acab566f20196def2ed0613bb13",
       "scriptSize": 3080893,
       "imageSha": "de642ff85bffab7bfc032068e985708b6dbbe55d"
