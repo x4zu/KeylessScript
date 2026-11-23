@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T07:07:39.501Z",
+  "updatedAt": "2026-11-23T07:12:49.940Z",
   "games": [
+    {
+      "id": "voxel-wars",
+      "name": "Voxel Wars",
+      "placeId": 78884249003161,
+      "universeId": 10773416193,
+      "creatorId": 755214094,
+      "version": "1.0.0",
+      "updated": "2026-11-23T07:12:49.940Z",
+      "enabled": true,
+      "scriptSha": "a7f942e65111c0cc62099fe9675e7550076419df",
+      "scriptSize": 229515,
+      "imageSha": "56ca8e077c6be3025822fa646c763ed4f33da51e"
+    },
     {
       "id": "revolver-arena",
       "name": "[🦃] Revolver Arena",
