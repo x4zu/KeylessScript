@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T07:44:18.542Z",
+  "updatedAt": "2026-11-23T07:45:24.138Z",
   "games": [
+    {
+      "id": "warnetopia-internet-cafe",
+      "name": "Warnetopia: Internet Cafe",
+      "placeId": 106267220422944,
+      "universeId": 10774759040,
+      "creatorId": 718067209,
+      "version": "1.0.0",
+      "updated": "2026-11-23T07:45:24.138Z",
+      "enabled": true,
+      "scriptSha": "b4731210b0cc9af3f6704a480de4336b5f60d2c4",
+      "scriptSize": 142638,
+      "imageSha": "4643f94d0f4e0e8c630f4925477f9407d8cb00ab"
+    },
     {
       "id": "prison-tycoon",
       "name": "(🚨) Prison Tycoon",
