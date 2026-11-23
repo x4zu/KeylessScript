@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T07:45:24.138Z",
+  "updatedAt": "2026-11-23T08:06:35.759Z",
   "games": [
+    {
+      "id": "throw-a-seed",
+      "name": "Throw a Seed",
+      "placeId": 129081220403721,
+      "universeId": 10775182046,
+      "creatorId": 115196901,
+      "version": "1.0.0",
+      "updated": "2026-11-23T08:06:35.759Z",
+      "enabled": true,
+      "scriptSha": "7ee901866454f871345d6dccfda469c1ea38a234",
+      "scriptSize": 133816,
+      "imageSha": "ac308351ffba76bb42f0adc15ecd62baab4b86cd"
+    },
     {
       "id": "warnetopia-internet-cafe",
       "name": "Warnetopia: Internet Cafe",
