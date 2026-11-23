@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T05:37:22.391Z",
+  "updatedAt": "2026-11-23T05:56:21.455Z",
   "games": [
     {
       "id": "clans-hypershot",
@@ -8,11 +8,11 @@
       "placeId": 17516596118,
       "universeId": 5995470825,
       "creatorId": 3385385,
-      "version": "1.0.0",
-      "updated": "2026-11-23T05:07:47.674Z",
+      "version": "1.0.1",
+      "updated": "2026-11-23T05:56:21.455Z",
       "enabled": true,
-      "scriptSha": "9aef8f35c81e6acab566f20196def2ed0613bb13",
-      "scriptSize": 3080893,
+      "scriptSha": "4b63116e9e615213e1b98524cca4ad42815c622b",
+      "scriptSize": 323821,
       "imageSha": "de642ff85bffab7bfc032068e985708b6dbbe55d"
     }
   ]
