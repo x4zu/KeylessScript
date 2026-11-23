@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T05:56:21.455Z",
+  "updatedAt": "2026-11-23T07:07:39.501Z",
   "games": [
+    {
+      "id": "revolver-arena",
+      "name": "[🦃] Revolver Arena",
+      "placeId": 108419873026523,
+      "universeId": 10770504297,
+      "creatorId": 1018019223,
+      "version": "1.0.0",
+      "updated": "2026-11-23T07:07:39.500Z",
+      "enabled": true,
+      "scriptSha": "ba5a2dc5bf08b088daa03962c9588a4d65aac0c9",
+      "scriptSize": 385028,
+      "imageSha": "26f5e296d5e291699c218d170301c51cf11118d6"
+    },
     {
       "id": "clans-hypershot",
       "name": "[🔥CLANS] Hypershot",
