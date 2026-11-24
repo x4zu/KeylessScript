@@ -1,20 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T13:15:46.682Z",
+  "updatedAt": "2026-11-24T13:17:00.590Z",
   "games": [
-    {
-      "id": "fireflytopia",
-      "name": "FireFlyTopia",
-      "placeId": 93757714688020,
-      "universeId": 10774900720,
-      "creatorId": 251610025,
-      "version": "1.0.0",
-      "updated": "2026-11-24T13:15:46.681Z",
-      "enabled": false,
-      "scriptSha": "ead865a8f68ae555207783b0d795d67bdc95b875",
-      "scriptSize": 415789,
-      "imageSha": "9207192826618f022179953341503fcd03ef670f"
-    },
     {
       "id": "throw-a-seed",
       "name": "Throw a Seed",
