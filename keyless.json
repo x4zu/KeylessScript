@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T13:28:07.179Z",
+  "updatedAt": "2026-11-24T13:28:18.447Z",
   "games": [
+    {
+      "id": "fft",
+      "name": "FFT",
+      "placeId": 93757714688020,
+      "universeId": 10774900720,
+      "creatorId": 251610025,
+      "version": "1.0.0",
+      "updated": "2026-11-24T13:28:18.447Z",
+      "enabled": false,
+      "scriptSha": "77f1b20a8ddb784964e3ac3c2f93f910ec6ca690",
+      "scriptSize": 228334,
+      "imageSha": "9207192826618f022179953341503fcd03ef670f"
+    },
     {
       "id": "throw-a-seed",
       "name": "Throw a Seed",
