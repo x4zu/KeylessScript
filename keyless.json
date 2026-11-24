@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T13:17:00.590Z",
+  "updatedAt": "2026-11-24T13:18:51.475Z",
   "games": [
+    {
+      "id": "fireft",
+      "name": "FIREFT",
+      "placeId": 93757714688020,
+      "universeId": 10774900720,
+      "creatorId": 251610025,
+      "version": "1.0.0",
+      "updated": "2026-11-24T13:18:51.472Z",
+      "enabled": true,
+      "scriptSha": "247dfb2261ef8be454473d05b8e9b4a91a597276",
+      "scriptSize": 2681351,
+      "imageSha": "9207192826618f022179953341503fcd03ef670f"
+    },
     {
       "id": "throw-a-seed",
       "name": "Throw a Seed",
