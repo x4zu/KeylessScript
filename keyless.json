@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T23:41:36.117Z",
+  "updatedAt": "2026-11-26T23:42:01.825Z",
   "games": [
     {
       "id": "wings-fight",
@@ -8,11 +8,11 @@
       "placeId": 88661816960259,
       "universeId": 10774598960,
       "creatorId": 87770135,
-      "version": "1.0.2",
-      "updated": "2026-11-26T23:41:36.117Z",
+      "version": "1.0.3",
+      "updated": "2026-11-26T23:42:01.825Z",
       "enabled": true,
-      "scriptSha": "51a82ef8d67151a750fa18d2a0536dc53521a721",
-      "scriptSize": 257026,
+      "scriptSha": "9a0f9517475ee4b172e96911f5bd532861ab653a",
+      "scriptSize": 487182,
       "imageSha": "6ba872ce337af7fe8509e6751e0e54b9eb695bb8"
     },
     {
