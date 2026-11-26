@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T17:01:41.578Z",
+  "updatedAt": "2026-11-26T17:33:43.578Z",
   "games": [
+    {
+      "id": "wings-fight",
+      "name": "Wings Fight",
+      "placeId": 88661816960259,
+      "universeId": 10774598960,
+      "creatorId": 87770135,
+      "version": "1.0.0",
+      "updated": "2026-11-26T17:33:43.577Z",
+      "enabled": true,
+      "scriptSha": "9a0f9517475ee4b172e96911f5bd532861ab653a",
+      "scriptSize": 487182,
+      "imageSha": "6ba872ce337af7fe8509e6751e0e54b9eb695bb8"
+    },
     {
       "id": "fft",
       "name": "FFT",
