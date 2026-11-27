@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T16:41:58.411Z",
+  "updatedAt": "2026-11-27T17:36:15.108Z",
   "games": [
+    {
+      "id": "100-miles-down-the-river",
+      "name": "100 Miles Down the River",
+      "placeId": 95105291546154,
+      "universeId": 10770526777,
+      "creatorId": 1084602234,
+      "version": "1.0.0",
+      "updated": "2026-11-27T17:36:15.107Z",
+      "enabled": true,
+      "scriptSha": "f21ad01f480c551efb8024ac07d5d86e264c4cc8",
+      "scriptSize": 647952,
+      "imageSha": "99c9053eab0d9233ef6f6d44183d0b5089178ac5"
+    },
     {
       "id": "barber-empire",
       "name": "[💈] Barber Empire",
