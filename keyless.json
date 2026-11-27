@@ -1,7 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T02:29:28.383Z",
+  "updatedAt": "2026-11-27T16:41:58.411Z",
   "games": [
+    {
+      "id": "barber-empire",
+      "name": "[💈] Barber Empire",
+      "placeId": 129516203408961,
+      "universeId": 10773971368,
+      "creatorId": 406621119,
+      "version": "1.0.0",
+      "updated": "2026-11-27T16:41:58.411Z",
+      "enabled": true,
+      "scriptSha": "03201b8e34bd48b0e86120677ad2e640b917ab61",
+      "scriptSize": 256470,
+      "imageSha": "8c8efbe51efd76ad7f4df82885572d867f313238"
+    },
     {
       "id": "wings-fight",
       "name": "Wings Fight",
